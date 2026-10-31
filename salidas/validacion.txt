@@ -1,0 +1,15 @@
+ENAHO 2024: validación
+Hogares en la sumaria: 33,691
+Residentes habituales: 108,664 de 117,721 filas en miembros
+Pobreza (sumaria, factor07 × mieperho): 27.58 %
+Pobreza extrema (sumaria, factor07 × mieperho): 5.50 %
+Pobreza (base de personas, facpob07): 27.53 %
+
+OK    llaves de hogar únicas
+OK    llaves de persona únicas
+OK    ninguna fila perdida ni duplicada
+OK    toda persona encontró su hogar
+OK    ubigeo con 6 dígitos
+OK    residentes = 108,664
+OK    pobreza a 0.1 de 27.6 %
+OK    extrema a 0.1 de 5.5 %

@@ -1,0 +1,7 @@
+
+# Datos crudos del INEI: se descargan, no se versionan
+datos/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
